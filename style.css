@@ -3,6 +3,7 @@ body::before{
     animation: movie 120s linear infinite;
 }
 
+
 @keyframes movie {
     0%,100%{
         scale: 2;
